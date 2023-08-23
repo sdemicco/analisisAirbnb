@@ -13,7 +13,7 @@ Para un primer analisis se utilizaron las tablas calendar.csv y listings.csv. Se
 
 En la primera página del tablero puede realizarse un analisis dinamico por Barrio de las cantidades y ubicacion de hospedajes, tipo de hospedajes, precios y variación de precios de acuerdo a diferentes caracteristicas de los hospedajes (cantidad de huéspedes, tipo, etc)
 
-![descripción de la imágen](airbnb2.png)
+![página1](airbnb1.png)
 
 
 airbnb_1.png
@@ -21,6 +21,8 @@ airbnb_1.png
 
 
 En la segunda página del tablero se muestran valores de facturacion (tomando las reservas del periodo estudiado), teniendo en cuenta barrios, ocupación, tipo de propiedad etc.
+
+![página2](airbnb2.png)
 
 
 ### Preguntas 
