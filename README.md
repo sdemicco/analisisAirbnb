@@ -1,6 +1,6 @@
 # analisisAirbnb
 
-Se desarrolló un tablero en PowerBi que permite entender en negocio de airbnb en la ciudad de Buenos Aires.
+Se desarrolló un tablero preliminar en PowerBi que permite entender en negocio de airbnb en la ciudad de Buenos Aires.
 Se utilizaron tres datasets con la siguiente informacion:
 
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
@@ -43,9 +43,7 @@ Por otro lado con los datos de ocupación y precios se pueden identificar las ca
 Se puede definir por barrio, tipo de propiedad, cantidad de huespedes:
 - Ocupación
 - Facturación
- Tambien si muestra una metrica que  la proporcion de hospedajes con ocupacion mayor a 6 meses para determinar si la combinacion de caracteristicas
-  que maximiza la facturacion no se encuentra saturada.
-
+  
 
 * ¿Cuál es la mejor forma de invertir en AirBnb?. Si presentamos nuestras conclusiones a un grupo inversor: ¿Qué propuestas le haríamos?
   
@@ -53,7 +51,7 @@ Se puede definir por barrio, tipo de propiedad, cantidad de huespedes:
   Tambien es el barrio que tiene mas alojamientos, por lo tanto es importante analizar un indicador que determine si el mercado se encuentra saturado.
   Para ellos se calculó la proporción de hospedajes con ocupacion mayor a 6 meses para todos los barrios, y Palermo no presento valores inferiores, por lo tanto el mercado no estaría saturado. 
    Las propiedades más rentadas fueron departamentos con capacidad de entre 2 y 3 personas.
-  De acuerdo a este analisis, recomendaria invertir en un departamento en la zona de Palermo, para dos o 3 personas. Como segunda opción, recomendaria invertir en el barrio Recoleta que es el segundo con mas ocupación y facturación. 
+  De acuerdo a este analisis, recomendaria invertir en un departamento en la zona de Palermo, para dos o 3 personas. Como segunda opción, recomendaria invertir en el barrio Recoleta que es el segundo barrio con mas ocupación y facturación. 
 
   
 
