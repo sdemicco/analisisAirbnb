@@ -1,4 +1,4 @@
-# analisisAirbnb
+# Analisis de datos de alojamientos Airbnb realizado en el marco de proyecto integrador Henry
 
 Se desarrolló un tablero preliminar en PowerBi que permite entender en negocio de airbnb en la ciudad de Buenos Aires.
 Se utilizaron tres datasets con la siguiente informacion:
