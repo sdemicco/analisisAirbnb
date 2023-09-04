@@ -5,6 +5,7 @@ Se utilizaron tres datasets con la siguiente informacion:
 
 | calendar.csv: (incluye datos de ocupación, precio, etc.)  
 | listings.csv: Detalle de cada operación de Listing (incluye datos descriptivos de la vivienda (ambientes, host, noches mínimas y máximas, cantidad de reviews)
+
 | reviews.csv Datos de review de los usuarios.
 
 Para un primer analisis se utilizaron las tablas calendar.csv y listings.csv. Se realizó un analisis exploratorio con python para comprender las variables exlicativas, identificar las variables relevantes para este primer analisis y realizar las transformaciones de datos para obtener un archivo csv que luego se utlizará para construir el dasbord en powerBI.
